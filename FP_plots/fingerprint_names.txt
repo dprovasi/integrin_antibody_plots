@@ -1,0 +1,8 @@
+Apolar
+Aro_F2F
+Aro_E2F
+Hbond_ProD
+Hbond_ProA
+Elec_ProP
+Elec_ProN
+Wat_Hbond
